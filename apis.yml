@@ -1,7 +1,25 @@
 aid: recursive
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
+image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/recursive.png
 name: Recursive
-description: Recursive is a company surfaced as a portfolio company of earlybird and added to the API
-  Evangelist network as a stub for enrichment. This profile is a lead awaiting the enrichment pipeline.
+description: Recursive (Recursive Superintelligence) is an AI research company founded in 2025 and
+  backed by Earlybird, building recursive self-improving systems designed to automate knowledge discovery
+  and accelerate scientific progress, beginning with AI research itself. Its team of researchers and
+  entrepreneurs previously worked at OpenAI, DeepMind, Google Brain, Meta, Salesforce and Uber, and works
+  on open-ended algorithms, AI-generating algorithms and self-improving systems. The company is based in
+  San Francisco with an additional presence in London. Recursive currently publishes no public API,
+  developer documentation, SDK, or other machine-readable developer surface; this profile captures its
+  identity as a lead in the API Evangelist network.
 url: https://raw.githubusercontent.com/api-evangelist/recursive/refs/heads/main/apis.yml
 x-type: company
 x-source: vc-portfolio
@@ -11,12 +29,28 @@ x-tier: stub
 x-tier-reason: portfolio-lead
 specificationVersion: '0.20'
 created: '2026-07-17'
-modified: '2026-07-17'
+modified: '2026-07-21'
 tags:
 - Company
+- Artificial Intelligence
+- AI Research
+- Machine Learning
+- Superintelligence
+- Deep Learning
+- Research
 apis: []
+common:
+- type: DomainSecurity
+  url: security/recursive-domain-security.yml
+- type: Website
+  url: https://www.recursive.com
 maintainers:
 - FN: Kin Lane
   email: kin@apievangelist.com
 - FN: APIs.json
   email: info@apis.io
+x-enrichment:
+  date: '2026-07-21'
+  status: minimal
+  artifacts_added: 1
+  pass: local-v1
