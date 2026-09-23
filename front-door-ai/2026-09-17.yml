@@ -1,0 +1,34 @@
+# Front Door AI Index — recursive — 2026-09-17
+# AI vocabulary counted on the provider's root page. Generated; do not edit.
+# `score` is null unless ownership is `own` — see front_door_ai.py.
+front_door_ai:
+  slug: recursive
+  lexicon_version: '1.0'
+  probed_at: '2026-09-17'
+  host: www.recursive.com
+  final_host: www.recursive.com
+  ownership: own
+  owner: recursive
+  shares_host_with:
+  - recursive-superintelligence
+  inherited_from: null
+  verdict: scored
+  score: 19
+  host_score: 19
+  density: 36.96
+  words: 514
+  tiers:
+    agentic: 2
+    core: 15
+    model: 2
+  ambiguous: 3
+  top_terms:
+    AI: 13
+    intelligence: 2
+    OpenAI: 1
+    agent: 1
+    deep learning: 1
+    machine learning: 1
+    prompts: 1
+    retrieval-augmented: 1
+    transformer: 1
