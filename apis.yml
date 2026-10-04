@@ -45,7 +45,7 @@ tags:
 - Company
 - Artificial Intelligence
 - AI Research
-- Machine-Learning
+- Machine Learning
 - Superintelligence
 - Deep Learning
 - Research
@@ -57,6 +57,7 @@ tags_raw:
 - Superintelligence
 - Deep Learning
 - Research
+- Machine-Learning
 apis: []
 common:
 - type: DomainSecurity
