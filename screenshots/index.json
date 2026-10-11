@@ -1,0 +1,11 @@
+[
+  {
+    "repo": "recursive",
+    "captured_at": "2026-10-11T192405",
+    "source_url": "https://www.recursive.com",
+    "source_type": "Website",
+    "file": "recursive-2026-10-11T192405.png",
+    "bytes": 1436337,
+    "capture": "playwright-local"
+  }
+]
